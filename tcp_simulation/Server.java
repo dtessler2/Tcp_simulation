@@ -2,7 +2,8 @@ package tcp_simulation;
 import java.net.*;
 import java.util.*;
 import java.io.*;
-
+/*Dina Tessler
+T00501753*/
 public class Server {
 
 
